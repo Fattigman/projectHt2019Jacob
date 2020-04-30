@@ -12,7 +12,7 @@
     "cytoscape-cose-bilkent": "^4.1.0",
     "cytoscape-graphml": "^1.0.6",
     "express": "~4.16.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.2",
     "path": "^0.12.7",
